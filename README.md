@@ -1,7 +1,7 @@
-# TinyCircuits-Whisker-IR-Heat-Camera-AST1045
+# TinyCircuits-Wireling-IR-Heat-Camera-AST1045
 # Rev 1
 
-The design files are located under design_files/ for the TinyCircuits AST1045 Rev 1 PCB. This is a Whisker board which features an IR thermal Camera using the AMG8833 IR Array Gird-EYE Sensor.
+The design files are located under design_files/ for the TinyCircuits AST1045 Rev 1 PCB. This is a Wireling board which features an IR thermal Camera using the AMG8833 IR Array Gird-EYE Sensor.
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
 For more infomation on this, check out the product page at TinyCircuits.com
